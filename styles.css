@@ -36,6 +36,10 @@ body {
     border-bottom-width: 3px;
 }
 
+ul {
+    border-bottom: 1px solid grey
+}
+
 li {
     display: inline-block;
     font-family: Helvetica;
@@ -44,4 +48,20 @@ li {
 
 a {
     color: black;
+}
+
+#h2 {
+    font-family: Helvetica;
+    font-weight: 100;
+    margin: 20px 0px 20px 0px;
+}
+
+.paragraphs {
+    text-align: left;
+}
+
+.h3 {
+    font-family: helvetica;
+    text-align: left;
+    margin: 20px 0px 20px 0px;
 }

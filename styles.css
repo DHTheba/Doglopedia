@@ -12,11 +12,11 @@ body {
 }
 
 #header {
-    background-color: wheat;
+    background-color: beige;
     border-radius: 4px;
     padding: 20px;
     margin-top: 20px;
-    color: rgb(134, 119, 89);
+    color: rgb(140, 125, 94);
     font-size: 20px;
     height: 150px;
 
@@ -28,7 +28,7 @@ h1 {
 
 #subhead {
     font-family: monospace;
-    color: rgb(134, 119, 89);
+    color: rgb(140, 125, 94);
     margin-top: 15px;
 
 }
@@ -49,7 +49,8 @@ ul {
 li {
     display: inline-block;
     font-family: Helvetica;
-    padding: 5px 25px 20px 25px;
+    padding: 5px 10px 20px 10px;
+    font-weight: lighter;
 }
 
 a {

@@ -65,10 +65,21 @@ a {
 
 .paragraphs {
     text-align: left;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .h3 {
     font-family: helvetica;
     text-align: left;
     margin: 20px 0px 20px 0px;
+}
+
+.footer {
+    text-align: center;
+    margin: 30px 0px 20px 0px;
+}
+
+#line {
+    padding-top: 10px;
+    border-bottom: 1px solid grey;
 }
